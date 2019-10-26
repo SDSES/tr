@@ -1,5 +1,5 @@
 # tr - Text Recognition 
-Tested under Python3 with *Ubuntu 16.04* and *Ubuntu 18.04*
+Tested under Python3 with *Windows*
 
 一款针对扫描文档的离线文本识别SDK，核心代码全部采用C++开发，并提供Python接口
 
@@ -8,12 +8,12 @@ Tested under Python3 with *Ubuntu 16.04* and *Ubuntu 18.04*
 </pre>
 #### Install
 + 安装方法一
-<pre>git clone https://github.com/myhub/tr.git
+<pre>git clone -b windows https://github.com/myhub/tr.git
 cd ./tr
 sudo python setup.py install
 </pre>
 + 安装方法二
-<pre>pip install git+https://github.com/myhub/tr.git@master
+<pre>pip install git+https://github.com/myhub/tr.git@windows
 </pre>
 + 测试是否安装成功
 <pre>python test.py
