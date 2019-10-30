@@ -1,6 +1,7 @@
 include tr/README.md
 include tr/*.txt
 
+include c_api.cpp
 recursive-include libtorch *.dll.*
 recursive-include libtorch *.dll
 
