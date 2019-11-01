@@ -5,7 +5,7 @@ Tested under Python3 with *Ubuntu 16.04* and *Ubuntu 18.04*
 
 #### License
 ##### 非商业应用
-永久免费，无任何限制
+永久免费
 ##### 商业应用
 永久免费，但需向作者申请授权，并在软件显著位置指明SDK出处
 
