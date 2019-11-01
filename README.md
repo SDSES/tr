@@ -4,10 +4,7 @@ Tested under Python3 with *Ubuntu 16.04* and *Ubuntu 18.04*
 一款针对扫描文档的离线文本识别SDK，核心代码全部采用C++开发，并提供Python接口
 
 #### License
-##### 非商业应用
-永久免费
-##### 商业应用
-永久免费，但需向作者申请授权，并在软件显著位置指明SDK出处
+永久免费，但需在软件显著位置指明SDK出处
 
 #### Requirements
 <pre>pip install numpy Pillow opencv-python
